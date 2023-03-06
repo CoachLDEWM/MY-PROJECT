@@ -1,0 +1,49 @@
+body {
+    background-color: pink;
+}
+
+
+
+header, footer {
+    background-color: darkgrey;
+    border-style: solid;
+    border-color: white;
+    margin: 10px;
+}
+
+img {
+    height: 10%; 
+    width: 10%;
+}
+
+h1 {
+    display: inline;
+}
+
+
+
+
+section {
+    background-color: lightgray;
+    border-style: solid;
+    border-color: white;
+    margin: 10px;
+}
+
+ul {
+    list-style-type: none;
+    display: inline;
+}
+
+li {
+    display: inline;
+    margin-left: 250px;
+}
+
+footer {
+    text-align: center;
+}
+
+audio {
+    align-items: center;
+}
